@@ -26,6 +26,3 @@ def using_concat(a1, a2)
   a1 = a1 + a2
   puts a1.length
 end
-my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
-more_favs = ["mario kart", "flatiron school"]
-using_concat(my_favorite_things, more_favs)
